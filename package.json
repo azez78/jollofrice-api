@@ -1,0 +1,23 @@
+{
+  "name": "jollofrice-api",
+  "version": "1.0.0",
+  "description": "My Jollofrice Api",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodejs": "^0.0.0"
+  },
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azez78/jollofrice-api.git"
+  },
+  "author": "Abdulazeez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azez78/jollofrice-api/issues"
+  },
+  "homepage": "https://github.com/azez78/jollofrice-api#readme"
+}
