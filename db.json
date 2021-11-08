@@ -1,0 +1,65 @@
+{
+   "jollofrice":[ 
+{
+"id": 0,
+"name": "Sweet Jollof",
+"restaurant": "Ramay Jollof",
+"web": "www.ramyjollof.com",
+"description": "A mouth watering sweet jollof rice",
+"ingredients": ["rice","maggi cubes","meat","sweet sauce","tomatoes"],
+"addresses": [
+    {
+        "addressid":"0",
+        "number":"23",
+        "line1": "Rabba road",
+        "line2": "Kaduna",
+        "postcode": "80298",
+        "country": "Nigeria"
+    }
+
+   ]
+},
+{
+    "id": 1,
+    "name": "Pepper Jollof",
+    "restaurant": "Manal Jollof",
+    "web": "www.manaljollof.com",
+    "description": "A peppeered jollof rice",
+    "ingredients": ["rice","maggi cubes","onions", "meat","sweet sauce","tomatoes"],
+    "addresses": [
+        {
+            "addressid":"0",
+            "number":"13",
+            "line1": "New road",
+            "line2": "Kaduna",
+            "postcode": "480298",
+            "country": "Nigeria" 
+       }
+    ]
+},
+ 
+
+{
+    "id": 2,
+    "name": "Party Jollof",
+    "restaurant": "Iqbal Jollof",
+    "web": "www.iqbaljollof.com",
+    "description": "A party jollof rice",
+    "ingredients": ["rice","oil","maggi cubes","onions", "meat","sweet sauce","tomatoes"],
+    "addresses": [
+        {
+            "addressid":"0",
+            "number":"31",
+            "line1": "Abuja road",
+            "line2": "Kaduna",
+            "postcode": "480098",
+            "country": "Nigeria" 
+      }
+    ]
+}
+   ]
+}
+
+   
+   
+   
